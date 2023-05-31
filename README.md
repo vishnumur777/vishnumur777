@@ -1,4 +1,3 @@
-# vishnumur777 GitHub Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishnumur777&include_all_commits=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
