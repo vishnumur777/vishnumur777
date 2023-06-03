@@ -1,6 +1,6 @@
 [<h1 align="center">Hi 👋, I'm Varun Muralidhar</h1>](https://vishnumur777.github.io/varun-landing-page/)
 <h3 align="center">A passionate software developer</h3>
-<img align="right" src="https://pbs.twimg.com/media/FxgW8yDaMAA4dim?format=jpg&name=large" width="400vh" height="290vh">
+<img align="right" src="https://pbs.twimg.com/media/FxgW8yDaMAA4dim?format=jpg&name=large" width="370vh" >
 
 ------------
 
