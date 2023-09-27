@@ -46,7 +46,7 @@
 <a href="https://github.com/vishnumur777/railwiredashboard">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vishnumur777&repo=railwiredashboard&theme=highcontrast" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/vishnumur777/batinfo">
+<a href="https://github.com/vishnumur777/animals-detection-YOLOv8">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vishnumur777&repo=batinfo&theme=highcontrast" />
 </a>
 </p>
