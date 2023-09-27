@@ -47,7 +47,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vishnumur777&repo=railwiredashboard&theme=highcontrast" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/vishnumur777/animals-detection-YOLOv8">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vishnumur777&repo=batinfo&theme=highcontrast" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vishnumur777&repo=animals-detection-YOLOv8&theme=highcontrast" />
 </a>
 </p>
 
