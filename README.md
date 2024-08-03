@@ -10,7 +10,7 @@
 - 👋 Hi, I’m @vishnumur777 a student in RMK College of engineering and technology
 - 🐧 An ardent Linux proponent
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning mongoDB, Advanced SQL functions
+- 🌱 I’m currently learning Machine Learning, Advanced SQL functions
 - 📫 You can reach me through [linkedin account](https://www.linkedin.com/in/varun-muralidhar-53187b215/)
 
 --------------
